@@ -1,8 +1,7 @@
 ## Olá! Eu sou Yan Martins
 
 - 👨🏼‍🎓 Cursando Ciência da Computação no IFCE - Campus Maracanaú
-- 📘 Estudando React
-
+  
 ## Conhecimentos
 <div style="display: inline-block">
   <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
