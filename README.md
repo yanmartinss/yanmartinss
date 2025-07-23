@@ -12,6 +12,7 @@ Atualmente sou estagiário como desenvolvedor React Native e React.js desenvolve
   <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 </div>
 
 ## Contato
