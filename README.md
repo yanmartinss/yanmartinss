@@ -1,7 +1,10 @@
-## Olá! Eu sou Yan Martins
+# Olá! Eu sou Yan Martins
+
+## 💻 Desenvolvedor Front-End & Backend em formação
+Atualmente sou estagiário como desenvolvedor React Native e React.js desenvolvendo aplicações mobile e interfaces web. No momento, estou me aprofundando em Node.js para expandir meus conhecimentos em desenvolvimento backend.
 
 - 👨🏼‍🎓 Cursando Ciência da Computação no IFCE - Campus Maracanaú
-  
+
 ## Conhecimentos
 <div style="display: inline-block">
   <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -11,7 +14,7 @@
   <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
-## Minhas Redes Sociais
+## Contato
 <div>
   <a href="mailto:yanmartinss05@gmail.com" target="_blank"> <img align = "center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yan-martins-50b460266/" target="_blank"> <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
