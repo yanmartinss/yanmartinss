@@ -4,12 +4,11 @@
   
 ## Conhecimentos
 <div style="display: inline-block">
-  <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>         
-  <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>   
-  <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align = "center" height = "50" width = "40" padding-right = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
 ## Minhas Redes Sociais
