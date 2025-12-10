@@ -1,7 +1,7 @@
 # Olá! Eu sou Yan Martins
 
 ## 💻 Desenvolvedor Front-End & Backend em formação
-Atualmente sou estagiário como desenvolvedor React Native e React.js desenvolvendo aplicações mobile e interfaces web. No momento, estou me aprofundando em Node.js (Express) e Prisma ORM para expandir meus conhecimentos em desenvolvimento backend.
+Atualmente sou Desenvolvedor Júnior como desenvolvedor React Native e React.js desenvolvendo aplicações mobile e interfaces web. No momento, estou me aprofundando em Node.js (Express) e Prisma ORM para expandir meus conhecimentos em desenvolvimento backend.
 
 - 👨🏼‍🎓 Cursando Ciência da Computação no IFCE - Campus Maracanaú
 
