@@ -5,16 +5,6 @@ Atualmente sou Desenvolvedor Júnior especializado em React Native e React.js, a
 
 - 👨🏼‍🎓 Cursando Ciência da Computação no IFCE - Campus Maracanaú
 
-## Conhecimentos
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" width="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" width="40" alt="tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50" width="40" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" width="40" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" width="40" alt="postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="50" width="40" alt="docker" />
-</div>
-
 ## Contato
 <div>
   <a href="mailto:yanmartinss05@gmail.com" target="_blank"> <img align = "center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
