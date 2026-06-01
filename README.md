@@ -1,13 +1,19 @@
-# Olá! Eu sou Yan Martins
+# Hello! I'm Yan Martins
 
-## 💻 Desenvolvedor Front-End & Backend em formação
-Atualmente sou Desenvolvedor Júnior especializado em React Native e React.js, atuando no desenvolvimento de aplicações mobile e interfaces web. Também possuo experiência com Java e PostgreSQL para criação de APIs e serviços backend. No momento, estou me aprofundando em Node.js (Express) e Prisma ORM para ampliar minhas habilidades em desenvolvimento full stack e fortalecer minha base em arquiteturas modernas.
+## 💻 Junior Full Stack Developer
+I am currently a Junior Full Stack Developer with experience in building mobile and web applications using React Native and React.js. I also have experience with Java and PostgreSQL for developing APIs and backend services. Currently, I am expanding my expertise in Node.js (Express) and Prisma ORM to strengthen my full-stack development skills and deepen my understanding of modern software architectures.
 
-- 👨🏼‍🎓 Cursando Ciência da Computação no IFCE - Campus Maracanaú
+- 👨🏼‍🎓 Computer Science Student at IFCE – Maracanaú Campus
 
-## Contato
+## Contact
 <div>
-  <a href="mailto:yanmartinss05@gmail.com" target="_blank"> <img align = "center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yan-martins-50b460266/" target="_blank"> <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/_yanmartinss/" target="_blank"> <img align = "center" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:yanmartinss05@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/yan-martins-50b460266/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/_yanmartinss/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
