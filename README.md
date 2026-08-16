@@ -1,27 +1,26 @@
-# Hello! I'm Yan Martins
+# Yan Martins
 
-## 💻 Junior Full Stack Developer
+**`Junior Full Stack Developer`**
 
-I am currently a Junior Full Stack Developer with experience in building mobile and web applications using React Native and React.js. I also have experience with Java and PostgreSQL for developing APIs and backend services. Currently, I am expanding my expertise in Node.js (Express) and Prisma ORM to strengthen my full-stack development skills and deepen my understanding of modern software architectures.
+Computer Science student at IFCE – Maracanaú Campus, focused on Full Stack Development. I have experience building web and mobile applications using React.js, React Native, as well as developing backend APIs with Java, Node.js, and Express. I also work with relational databases such as PostgreSQL, and have experience with Docker, Prisma ORM, Git, and GitHub. Currently, I am expanding my knowledge of modern software architectures, backend development, and cloud technologies.
 
-* 👨🏼‍🎓 Computer Science Student at IFCE – Maracanaú Campus
+---
 
-## 🌐 Portfolio
+### 🧰 Languages and Tools
 
-Check out my projects and experience on my portfolio:
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="React Native" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
-👉 **[My Portfolio](https://portfolio-yanmartinss.vercel.app/)**
-
-## Contact
-
-<div>
-  <a href="mailto:yanmartinss05@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/yan-martins-50b460266/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/_yanmartinss/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
+<br />
+<br />
