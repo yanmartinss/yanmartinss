@@ -1,8 +1,10 @@
 # Yan Martins
 
-**`Junior Full Stack Developer`**
+**`Full Stack Developer`**
 
-Computer Science student at IFCE – Maracanaú Campus, focused on Full Stack Development. I have experience building web and mobile applications using React.js, React Native, as well as developing backend APIs with Java, Node.js, and Express. I also work with relational databases such as PostgreSQL, and have experience with Docker, Prisma ORM, Git, and GitHub. Currently, I am expanding my knowledge of modern software architectures, backend development, and cloud technologies.
+[🌐 Portfolio](https://portfolio-yanmartinss.vercel.app/)
+
+Computer Science student at IFCE – Maracanaú Campus, focused on Full Stack Development, with 2+ years of experience building web and mobile applications. I have experience with React.js, React Native, as well as developing backend APIs using Java, Node.js, and Express. I also work with relational databases such as PostgreSQL, and have experience with Docker, Prisma ORM, Git, and GitHub. Currently, I am expanding my knowledge of modern software architectures, backend development, and cloud technologies.
 
 ---
 
