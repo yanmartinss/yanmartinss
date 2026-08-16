@@ -1,11 +1,19 @@
 # Hello! I'm Yan Martins
 
 ## 💻 Junior Full Stack Developer
+
 I am currently a Junior Full Stack Developer with experience in building mobile and web applications using React Native and React.js. I also have experience with Java and PostgreSQL for developing APIs and backend services. Currently, I am expanding my expertise in Node.js (Express) and Prisma ORM to strengthen my full-stack development skills and deepen my understanding of modern software architectures.
 
-- 👨🏼‍🎓 Computer Science Student at IFCE – Maracanaú Campus
+* 👨🏼‍🎓 Computer Science Student at IFCE – Maracanaú Campus
+
+## 🌐 Portfolio
+
+Check out my projects and experience on my portfolio:
+
+👉 **[My Portfolio](https://portfolio-yanmartinss.vercel.app/)**
 
 ## Contact
+
 <div>
   <a href="mailto:yanmartinss05@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
