@@ -4,7 +4,7 @@
 
 [🌐 Portfolio](https://portfolio-yanmartinss.vercel.app/)
 
-Computer Science student at IFCE – Maracanaú Campus, focused on Full Stack Development, with 2+ years of experience building web and mobile applications. I have experience with React.js, React Native, as well as developing backend APIs using Node.js, and Express. I also work with relational databases such as PostgreSQL, and have experience with Docker, Prisma ORM, Git, and GitHub. Currently, I am expanding my knowledge of modern software architectures, backend development, and cloud technologies.
+Computer Science student at IFCE with 2+ years of experience in Full Stack and Mobile Development. Hands-on expertise in building scalable web and mobile applications using React.js, React Native, and Node.js/Express. Proficient in relational database design with PostgreSQL, containerization with Docker, and modern tools like Prisma ORM and Git. Continuously deepening knowledge in modern software architecture, robust backend engineering, and cloud solutions.
 
 ---
 
