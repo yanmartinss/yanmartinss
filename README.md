@@ -1,6 +1,6 @@
 # Yan Martins
 
-**`Full Stack Developer`**
+**`Software Engineer`**
 
 [🌐 Portfolio](https://portfolio-yanmartinss.vercel.app/)
 
