@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-[🌐 Portfolio]([https://portfolio-yanmartinss.vercel.app/](https://portfolio-yanmartinss.swgdigital.com.br/))
+[🌐 Portfolio]([https://portfolio-yanmartinss.swgdigital.com.br/])
 
 Computer Science student at IFCE with 2+ years of experience in Full Stack and Mobile Development. Hands-on expertise in building scalable web and mobile applications using React.js, React Native, and Node.js/Express. Proficient in relational database design with PostgreSQL, containerization with Docker, and modern tools like Prisma ORM and Git. Continuously deepening knowledge in modern software architecture, robust backend engineering, and cloud solutions.
 
